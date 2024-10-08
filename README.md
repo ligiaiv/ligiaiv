@@ -6,9 +6,9 @@ Lígia here!
   <a href="https://github.com/ligiaiv/ligiaiv">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ligiaiv&theme=swift&langs_count=3" />
   </a>
-  <a href="https://github.com/ligiaiv/ligiaiv">
+<!--   <a href="https://github.com/ligiaiv/ligiaiv">
     <img align="center" src="https://github-readme-stats.vercel.app/api/?username=ligiaiv&theme=swift" />
-  </a>
+  </a> -->
 </a>
 
 
