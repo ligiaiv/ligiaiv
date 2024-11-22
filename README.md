@@ -89,8 +89,9 @@ Code used for both Master's dissertations on Machine Learning for NLP:
 
 
 
-You can reach me on [<img src="https://img.shields.io/badge/linkedin-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ligiaiv/)
- or send me an email: ligia.venturott@gmail.com
+## You can reach me on:
+[<img src="https://img.shields.io/badge/linkedin-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ligiaiv/)
+[<img src="https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ligia.venturott@gmail.com)
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats) -->
 
