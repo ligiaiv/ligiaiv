@@ -13,7 +13,7 @@
 
 <p align="left">
 <pre>
-      💻 Software Engineer at Ocado Technology
+      💻 Software Engineer
       🛠️ Backend and Frontend 
       🧠 Machine Learning enthusiast
       📚 Two Master's degrees in Machine Learning and NLP
